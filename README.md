@@ -1,39 +1,38 @@
-📊 Innomatics Data Science Internship – Task Repository
-📌 About This Repository
+# 📊 Innomatics Data Science Internship – Task Repository
 
-This repository contains all the tasks, assignments, and practice exercises completed as part of the Innomatics Data Science Internship Program.
+---
+
+## 📌 About This Repository
+
+This repository contains all the tasks, assignments, and practice exercises completed as part of the **Innomatics Data Science Internship Program**.
 
 The goal of this internship is to build strong foundations in:
 
-Python Programming
+- Python Programming
+- Problem Solving & Logic Building
+- Data Cleaning & Preprocessing
+- Analytical Thinking
+- Real-world Data Science Applications
 
-Problem Solving & Logic Building
+Each task focuses on developing practical skills essential for real industry environments.
 
-Data Cleaning & Preprocessing
+---
 
-Analytical Thinking
+## 🏢 About the Program
 
-Real-world Data Science Applications
+**Innomatics Research Labs** is a Data Science training and internship program designed to provide hands-on experience in:
 
-Each task focuses on developing practical skills that are essential in real industry environments.
-
-🏢 About the Program
-
-Innomatics Research Labs is a Data Science training and internship program designed to provide hands-on experience in:
-
-Data Science
-
-Machine Learning
-
-Artificial Intelligence
-
-Real-time project exposure
-
-Industry-relevant problem solving
+- Data Science
+- Machine Learning
+- Artificial Intelligence
+- Real-time project exposure
+- Industry-relevant problem solving
 
 This internship emphasizes practical implementation over theory.
 
-📂 Repository Structure
+---
+
+## 📂 Repository Structure
 
 The repository is organized task-wise:
 
@@ -43,76 +42,70 @@ The repository is organized task-wise:
 
 Each folder contains:
 
-Problem Statement
+- Problem Statement
+- Clean Python Implementation
+- Well-structured and commented code
 
-Clean Python Implementation
+---
 
-Well-structured and commented code
-
-🛠 Skills Practiced
+## 🛠 Skills Practiced
 
 During these tasks, the following skills were strengthened:
 
-Conditional Statements & Loops
+- Conditional Statements & Loops
+- Functions and Modular Programming
+- String Manipulation
+- Data Validation Techniques
+- Basic Log Monitoring Logic
+- Problem Decomposition
+- Writing Clean & Maintainable Code
 
-Functions and Modular Programming
+---
 
-String Manipulation
+## 🚀 Real-World Applications Covered
 
-Data Validation Techniques
+Some practical scenarios implemented:
 
-Basic Log Monitoring Logic
-
-Problem Decomposition
-
-Writing Clean & Maintainable Code
-
-🚀 Real-World Applications Covered
-
-Some examples of practical scenarios implemented:
-
-User Authentication Systems
-
-Student Result Analysis
-
-Data Preprocessing Pipelines
-
-Message Length Validation Systems
-
-Error Log Monitoring
+- User Authentication Systems
+- Student Result Analysis
+- Data Preprocessing Pipelines
+- Message Length Validation Systems
+- Error Log Monitoring
 
 These exercises simulate backend logic used in real applications.
 
-🎯 Objective
+---
+
+## 🎯 Objective
 
 The objective of maintaining this repository is to:
 
-Track learning progress
+- Track learning progress
+- Demonstrate hands-on internship work
+- Build a strong problem-solving foundation
+- Create a structured Data Science learning portfolio
 
-Demonstrate hands-on internship work
+---
 
-Build a strong problem-solving foundation
+## 📌 Technologies Used
 
-Create a structured Data Science learning portfolio
+- Python 3
+- Standard Python Libraries
 
-📌 Technologies Used
+---
 
-Python 3
+## 📈 Future Improvements
 
-Standard Python Libraries
+- Add Data Analysis projects using Pandas & NumPy
+- Implement visualization using Matplotlib & Seaborn
+- Build mini Machine Learning models
+- Add real dataset case studies
 
-📈 Future Improvements
+---
 
-Add Data Analysis projects using Pandas & NumPy
+## 👨‍💻 Author
 
-Implement visualization using Matplotlib & Seaborn
-
-Build mini machine learning models
-
-Add real dataset case studies
-
-👨‍💻 Author
-
-Vinayak M
-Data Science Intern
+**Vinayak M**  
+Data Science Intern  
 Innomatics Internship Program
+
